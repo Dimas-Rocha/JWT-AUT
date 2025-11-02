@@ -1,4 +1,4 @@
-package com.example.jwt_aut.entity;
+package entity;
 
 import java.time.LocalDateTime;
 

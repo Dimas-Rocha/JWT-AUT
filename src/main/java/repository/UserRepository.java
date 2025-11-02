@@ -1,4 +1,4 @@
-package com.example.jwt_aut.repository;
+package repository;
 
 import java.util.Optional;
 
