@@ -1,4 +1,4 @@
-package com.example.jwt_aut.dto;
+package dto;
 
 import java.time.LocalDateTime;
 
